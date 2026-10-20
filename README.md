@@ -16,7 +16,8 @@ I'm a postgraduate student interested in Machine Learning, Artificial Intelligen
 - **Data Analysis:** Pandas, NumPy
 
 ### 📂 Featured Project
-**Customer Churn Prediction** — End-to-end machine learning project using Python, Scikit-learn, and XGBoost.
+**Customer Churn Prediction** — https://github.com/gopyka17-oss/Customer-Churn-Prediction 
+: End-to-end machine learning project using Python, Scikit-learn, and XGBoost.
 
 ### 🎓 Education
 MSc Data Science & Analytics — Mahatma Gandhi University, Kerala, India
